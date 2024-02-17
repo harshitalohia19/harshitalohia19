@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web development , DSA**
 
-- 📫 How to reach me **harshitalohia@gail.co**
+- 📫 How to reach me **harshitalohia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
